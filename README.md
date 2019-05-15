@@ -1,9 +1,9 @@
-# Stouts.openvpn
+# ansible-role-openvpn
 
-[![Build Status](http://img.shields.io/travis/Stouts/Stouts.openvpn.svg?style=flat-square)](https://travis-ci.org/Stouts/Stouts.openvpn)
-[![Galaxy](http://img.shields.io/badge/galaxy-Stouts.openvpn-blue.svg?style=flat-square)](https://galaxy.ansible.com/Stouts/openvpn/)
+[![Build Status](https://img.shields.io/travis/vduseev/ansible-role-openvpn.svg?style=flat-square)](https://travis-ci.org/vduseev/ansible-role-openvpn)
+[![Galaxy](http://img.shields.io/badge/galaxy-Stouts.openvpn-blue.svg?style=flat-square)](https://galaxy.ansible.com/Stouts/openvpn/) 
 
-Ansible role that installs an openvpn server
+Ansible role to install an openvpn server
 
 * Install and setup OpenVPN server
 * Create/revoke client's configurations and certificates
@@ -52,4 +52,4 @@ Licensed under the MIT License. See the LICENSE file for details.
 
 ## Feedback, bug-reports, requests, ...
 
-...are [welcome](https://github.com/Stouts/Stouts.openvpn/issues)!
+...are [welcome](https://github.com/vduseev/ansible-role-openvpn/issues)!

@@ -1,9 +1,9 @@
 ---
 
 galaxy_info:
-  author: klen
-  company: Stouts
-  description: Manage OpenVPN server
+  author: vduseev
+  role_name: openvpn
+  description: Install OpenVPN server and manage clients
   min_ansible_version: 2.4
   license: MIT
   platforms:
