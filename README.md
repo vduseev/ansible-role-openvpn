@@ -1,7 +1,7 @@
 # ansible-role-openvpn
 
 [![Build Status](https://img.shields.io/travis/vduseev/ansible-role-openvpn.svg?style=flat-square)](https://travis-ci.org/vduseev/ansible-role-openvpn)
-[![Galaxy](http://img.shields.io/badge/galaxy-Stouts.openvpn-blue.svg?style=flat-square)](https://galaxy.ansible.com/Stouts/openvpn/) 
+[![Galaxy](http://img.shields.io/badge/galaxy-vduseev.openvpn-green.svg?style=flat-square)](https://galaxy.ansible.com/vduseev/openvpn/) 
 
 Ansible role to install an openvpn server
 
